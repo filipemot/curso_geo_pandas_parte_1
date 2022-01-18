@@ -2,7 +2,7 @@
 
 **Aulas:**
 
-[ ] 01 - Introdução ao GeoPandas
+- [ ] 01 - Introdução ao GeoPandas
 
 [ ] 02 - Do DataFrame ao GeoDataFrame
 
