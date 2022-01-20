@@ -52,3 +52,7 @@ Jupyter.bat
 - Como iniciar o Jupyter em uma pasta diferente da pasta do Anaconda
 - Como plotar um mapa
 - Os shapes Polygon, Point, LineString e MultiPolygon
+- Shapefiles
+	- Como lê-los, modificá-los e salvá-los
+- Coordenadas de latitude e longitude
+- Como transformar um DataFrame em GeoDataFrame

@@ -36,7 +36,7 @@ Jupyter.bat
   
 - [X] 02 - Do DataFrame ao GeoDataFrame  
   
-- [ ] 03 - Sistemas de coordenadas  
+- [X] 03 - Sistemas de coordenadas  
   
 - [ ] 04 - Filtrando imóveis por região  
   
@@ -56,3 +56,9 @@ Jupyter.bat
 	- Como lê-los, modificá-los e salvá-los
 - Coordenadas de latitude e longitude
 - Como transformar um DataFrame em GeoDataFrame
+- O sistema de referência de coordenadas
+	- Projeções
+	- Elipses
+	- Datum
+	- Universal Transverse Mercator (UTM)
+- Como modificar o sistema de coordenadas
