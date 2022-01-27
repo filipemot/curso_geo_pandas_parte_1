@@ -38,7 +38,7 @@ Jupyter.bat
   
 - [X] 03 - Sistemas de coordenadas  
   
-- [ ] 04 - Filtrando imóveis por região  
+- [X] 04 - Filtrando imóveis por região  
   
 - [ ] 05 - Calculando distâncias  
   
@@ -62,3 +62,5 @@ Jupyter.bat
 	- Datum
 	- Universal Transverse Mercator (UTM)
 - Como modificar o sistema de coordenadas
+- Como identificar os outliers
+- Como selecionar pontos (dados) dentro de uma região
