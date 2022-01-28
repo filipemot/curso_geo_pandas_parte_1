@@ -40,7 +40,7 @@ Jupyter.bat
   
 - [X] 04 - Filtrando imóveis por região  
   
-- [ ] 05 - Calculando distâncias  
+- [X] 05 - Calculando distâncias  
   
 - [ ] 06 - Agregando outras localizações
 
@@ -64,3 +64,6 @@ Jupyter.bat
 - Como modificar o sistema de coordenadas
 - Como identificar os outliers
 - Como selecionar pontos (dados) dentro de uma região
+- Como importar os dados das estações para um DataFrame
+- Como agrupar os dados das estações de metrô aos dados do município do Rio de Janeiro e dos imóveis
+- Como calcular a distância de cada imóvel até a estação de metrô mais próxima
