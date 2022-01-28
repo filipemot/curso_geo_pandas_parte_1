@@ -42,7 +42,7 @@ Jupyter.bat
   
 - [X] 05 - Calculando distâncias  
   
-- [ ] 06 - Agregando outras localizações
+- [X] 06 - Agregando outras localizações
 
 **Conteúdos Aprendidos:**  
 
@@ -67,3 +67,9 @@ Jupyter.bat
 - Como importar os dados das estações para um DataFrame
 - Como agrupar os dados das estações de metrô aos dados do município do Rio de Janeiro e dos imóveis
 - Como calcular a distância de cada imóvel até a estação de metrô mais próxima
+- Como agregar os dados sobre trens aos dados do município do Rio de Janeiro, imóveis à venda e estações de metrô
+- Como calcular a distância de cada imóvel até o transporte (metrô, trem ou BRT) mais próximo
+- Como calcular a distância de cada imóvel até a praia mais próxima
+- Como agregar os dados sobre trens aos dados do município do Rio de Janeiro, imóveis à venda e estações de metrô
+- Como calcular a distância de cada imóvel até o transporte (metrô, trem ou BRT) mais próximo
+- Como calcular a distância de cada imóvel até a praia mais próxima
